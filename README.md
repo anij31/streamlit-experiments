@@ -11,4 +11,7 @@ python -m venv .streamlit-experiments-venv
 pip install streamlit
 ```
 
-
+# Run the app
+```Bash
+streamlit run <filename>.py
+```
