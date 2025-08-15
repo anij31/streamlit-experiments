@@ -1,17 +1,19 @@
-# streamlit-experiments
+##### streamlit-experiments
 
-# Installation Steps:
+Clone the repo and follow the installation steps inside your cloned repo directory.
 
-#### 1. Create a virtual environment in the project folder
+##### Installation Steps:
+
+###### 1. Create a virtual environment in the project folder
 ```Bash
 python -m venv .streamlit-experiments-venv
 ```
-#### 2. Install streamlit
+###### 2. Install streamlit
 ```Bash
 pip install streamlit
 ```
 
-# Run the app
+###### 3. Run the app
 ```Bash
 streamlit run <filename>.py
 ```
