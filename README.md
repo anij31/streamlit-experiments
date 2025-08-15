@@ -1,4 +1,4 @@
-##### streamlit-experiments
+### streamlit-experiments
 
 Clone the repo and follow the installation steps inside your cloned repo directory.
 
